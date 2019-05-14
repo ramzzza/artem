@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,SAAS,CAAC;EACT,gBAAgB,EAAE,OAAqB,CAAA,UAAU;CACjD;;AACD,AAAA,iBAAiB,CAAC;ECgBjB,UAAU,EDfiB,OAAO;ECef,kBAAkB;EACrC,UAAU,EAAE,qDAA8C;EAAE,cAAc;EAC1E,UAAU,EAAE,wDAAgD;EAAE,6BAA6B;EAC3F,UAAU,EAAE,gDAAwC;EAAE,sDAAsD;EAC5G,uBAAuB,EAAE,IAAI;EAC5B,uBAAuB,EAAE,WAAW;CDnBrC",
+    "sources": [
+        "../assets/scss/landing-1.scss",
+        "../assets/scss/mixins/_custom-mixins.scss"
+    ],
+    "names": [],
+    "file": "landing-1.css"
+}
